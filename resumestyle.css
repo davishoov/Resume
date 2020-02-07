@@ -1,6 +1,7 @@
 #style {
-  	font-family: Arial ;
+  	font-family: Times ;
   	color: #c41e3a ;
+    text-align: center
 
   }
 
@@ -15,6 +16,10 @@
   font-size: 40px;
   }
 
+  h5 {
+  text-align: center;
+  font-size: 30px
+  }
 
   p {
   text-align: center;
@@ -35,11 +40,11 @@
 }
 
 .column1 {
-	flex: 50%;
-	center: "left";
+  flex: 50%;
+  center: "left"
 }
 
 .column2 {
-	flex: 50%;
-	center: "right";
+  flex: 50%;
+  center: "right"
 }
